@@ -1,0 +1,7 @@
+type,class,damage,health,x,y,shape,width,height,radius
+Goblin,melee,20,60,12,5,rectangle,16,16,
+Goblin King,boss,25,120,15,7,circle,,,16
+Orc,melee,30,80,8,3,rectangle,20,20,
+Orc Shaman,boss,35,100,18,4,circle,,,18
+Skeleton Archer,melee,15,50,10,6,rectangle,14,14,
+Lich Lord,boss,40,150,20,9,circle,,,20
